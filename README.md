@@ -1,5 +1,5 @@
 # Pac - Man is in Demand!
-<h4>Pac Man replicates his way through JavaScript<h4>
+<h4>Pac - Man replicates his way through JavaScript<h4>
     
 Description: A Pac - Man is supposed to be created instantaneously when you click on the "Add Pac - Man" button. Once you click the "Start Game" button that Pac - Man and any additional Pac - Men should continue that action of bouncing around the screen.
   
